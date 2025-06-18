@@ -14,6 +14,8 @@ Name this new dataframe as ``mydata``
 
 3. Draw a scatterplot to show the relationship beteween size of the population and life expectancy.  Do you think there is a strong relationship?
 
-4. Write a code using ``dplyr`` syntax and $$\color{red}verbs$$ to list the names of the contiries with 'low' life expectancy.
+4. Color the points of the scatterplot based on the life expectancy level (low, avg, high).
+
+5. Write a code using ``dplyr`` syntax and $$\color{red}verbs$$ to list the names of the contiries with 'low' life expectancy.
 
 
