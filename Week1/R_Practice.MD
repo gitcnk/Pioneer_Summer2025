@@ -1,10 +1,19 @@
-Use the 'gapminder' dataset to answer the following questions:
+# Use the  ``gapminder`` dataset to answer the following questions:
 
-1. Create a new dataset with counties in Asia for year 2002.
-2. Create a new variable based on the life expectancy of each country using the following rule:
-- If life expectancy < 50 then label them as 'low'
-- If life expectance is between 50 and 70 then label them as 'average'
+1. Create a new dataframe with counties in Africa for year 2002. Use only the following variables:
+- Country
+- Life expectancy
+- Population
+
+Name this new dataframe as ``mydata``
+
+2. Now work with ``mydata``. Create a new variable, call it ``Life_Exp_Level`` based on the life expectancy of each country using the following rules:
+- If life expectancy < 45 then label them as 'low'
+- If life expectance is between 45 and 70 then label them as 'average'
 - If it is higher than 70 then label as 'high'.
 
--- helo
+3. Draw a scatterplot to show the relationship beteween size of the population and life expectancy.  Do you think there is a strong relationship?
+
+4. Write a code using ``dplyr`` syntax and 'verbs' to list the names of the contiries with 'low' life expectancy.
+
 
