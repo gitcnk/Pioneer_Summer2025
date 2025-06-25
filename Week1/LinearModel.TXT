@@ -7,9 +7,9 @@ y <- 2 + 3*x + error
 plot(x,y)
 
 # fit a linear model
-lm( y ~ x )
+mymodel <- lm( y ~ x )
 
-abline(coef(lm( y ~ x )),
+abline(coef(mymodel),
        col = 'red')
 
 
