@@ -35,7 +35,7 @@
 
 ## These grades are related to the Math exam grades. 
 
-** Note: Portuguese exam grades are available in a separate file **
+*Note: Portuguese exam grades are available in a separate file*
 
 - G1 - first period grade (numeric: from 0 to 20)
 - G2 - second period grade (numeric: from 0 to 20)
