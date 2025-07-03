@@ -2,8 +2,8 @@
 
 
 
-school - student's school (binary: "GP" - Gabriel Pereira or "MS" - Mousinho da Silveira)
-sex - student's sex (binary: "F" - female or "M" - male)
+- school - student's school (binary: "GP" - Gabriel Pereira or "MS" - Mousinho da Silveira)
+- sex - student's sex (binary: "F" - female or "M" - male)
 age - student's age (numeric: from 15 to 22)
 address_type - student's home address type (binary: "Urban" or "Rural")
 family_size - family size (binary: "Less or equal to 3" or "Greater than 3")
