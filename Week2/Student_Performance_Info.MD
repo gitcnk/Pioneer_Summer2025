@@ -1,7 +1,6 @@
 ## Here are the variable names and their code descriptions.
 
 
-
 - school - student's school (binary: "GP" - Gabriel Pereira or "MS" - Mousinho da Silveira)
 - sex - student's sex (binary: "F" - female or "M" - male)
 - age - student's age (numeric: from 15 to 22)
@@ -34,7 +33,10 @@
 - absences - number of school absences (numeric: from 0 to 93)
 
 
-## These grades are related with the course subject, Math or Portuguese:
-- grade_1 - first period grade (numeric: from 0 to 20)
-- grade_2 - second period grade (numeric: from 0 to 20)
-- final_grade - final grade (numeric: from 0 to 20, output target)
+## These grades are related to the Math exam grades. 
+
+** Note: Portuguese exam grades are available in a separate file
+
+- G1 - first period grade (numeric: from 0 to 20)
+- G2 - second period grade (numeric: from 0 to 20)
+- G3 - final grade (numeric: from 0 to 20, target variable)
