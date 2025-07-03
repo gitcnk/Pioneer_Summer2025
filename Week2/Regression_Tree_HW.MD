@@ -4,4 +4,6 @@
     -  First tree: Use all the 32 X-variables;
     -  Second Tree: Exclude G1 and G2 from the model.  That means use 30 X-variables. 
 
-2. Compare the accuracy by using mean-squared error(MSE) as a performance metric. That is,calulate the MSE for each model
+2. Compare the accuracy of the two models by using mean-squared error(MSE) as a performance metric. That is,calulate the MSE for each model.
+
+3. Compare the accuracy using a graphical method.  That is, compute the predicted values for each student and compare that with the actual grades of the students.  Make a simple scatterplot using `ggplot` where the X axis represent the actual grades and the Y-axis represents the predicted grades from the tree.
