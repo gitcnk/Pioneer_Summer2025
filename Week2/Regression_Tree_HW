@@ -1,0 +1,5 @@
+## Please answer the following questions:
+
+1. Create two tree model to predict the final grades (G3) using the 'School Performance Data' we used in class.  
+    -  First tree: Use all the 32 X-variables;
+    -  Second Tree: Exclude G1 and G2 from the model.  That means use 30 X-variables. 
