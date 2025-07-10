@@ -1,6 +1,7 @@
 ## Random Forest Model
 
-## Goal is to Predict TL score of patients from DXA score.
+## Goal is to Predict TL score of patients. 
+## TL stands for Thoracolumbar (TL) bones in the spine.
 
 ## Source: Harvard Dataverse
 
