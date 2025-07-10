@@ -1,7 +1,6 @@
 ## Classisfication Trees
 
-## Task: To classify patients into (Cancer or Non cancer) groups
-##.      based on their attributes.
+## Task: To classify patients into (Cancer or Non cancer) groups based on their attributes.
 
 ## Data Source: UC Irvine ML repository.
 
@@ -12,4 +11,5 @@ library(visNetwork)
 
 mydata <- read.csv('https://academics.hamilton.edu/mathematics/ckuruwit/Data/breastcancer2.csv',
                    stringsAsFactors = TRUE)
+
 
