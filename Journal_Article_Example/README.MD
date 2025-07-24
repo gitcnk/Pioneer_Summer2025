@@ -7,6 +7,6 @@ You can look at other example templates here: `https://www.overleaf.com/gallery/
 
 - Main article with (.tex) extention.
 - Bibliography file with (.bib) extention
-- A folder for your fugures that you want inclide in the article.
+- A folder for your fugures that you want include in the article.
 
 
