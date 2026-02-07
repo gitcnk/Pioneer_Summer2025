@@ -1,24 +1,8 @@
 
 
-#### PART 1 -- SUMMARY STATS ########
+# PART 1 -- SUMMARY STATS 
 
-# How many countries are in each continent?
-
-
-
-
-
-
-
-## Find the average life expectancy in each continent
-
-
-
-
-
-
-## Find the average life expectancy for each continent
-## for the years after 1980
+1. How many countries are in each continent?
 
 
 
@@ -26,8 +10,14 @@
 
 
 
-## Find the correlation between life expectancy and GDP
-## for each continent
+2. Find the average life expectancy in each continent
+
+
+
+
+
+
+3. Find the average life expectancy for each continent for the years after 1980
 
 
 
@@ -35,11 +25,7 @@
 
 
 
-###### PART 2 -- PLOTS  ##########
-
-
-## Draw a bar chart to represent the number of countries 
-## in each continent
+4. Find the correlation between life expectancy and GDP for each continent
 
 
 
@@ -47,21 +33,31 @@
 
 
 
-### Draw a histogram of life expectancy values 
+# PART 2 -- PLOTS  
 
 
-
-
-
-## Draw a density plot of life expectancy values 
+1. Draw a bar chart to represent the number of countries in each continent
 
 
 
 
 
 
-## Draw a line chart (time series plot) to represent how 
-## life expectancy has changed over time
+
+2. Draw a histogram of life expectancy values 
+
+
+
+
+
+3. Draw a density plot of life expectancy values 
+
+
+
+
+
+
+4. Draw a line chart (time series plot) to represent how life expectancy has changed over time
 
 
 
@@ -70,8 +66,7 @@
 
 
 
-## Draw a scatterplot to represent the relationship between
-## GDP and life expectancy
+5. Draw a scatterplot to represent the relationship between GDP and life expectancy
 
 
 
