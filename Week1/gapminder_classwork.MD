@@ -1,6 +1,7 @@
 
 
-# PART 1 -- SUMMARY STATS 
+# PART 1 
+## SUMMARY STATS 
 
 1. How many countries are in each continent?
 
@@ -33,7 +34,8 @@
 
 
 
-# PART 2 -- PLOTS  
+# PART 2 
+## PLOTS  
 
 
 1. Draw a bar chart to represent the number of countries in each continent
